@@ -1,0 +1,2 @@
+# openaiapi
+用于openai的api域名中转到cloudfare，来解决国内openai异步调用问题
